@@ -5,8 +5,8 @@ module.exports = {
       name: `Dinesh Patnaik`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Applying AI in Real World .`,
+    siteUrl: `https://dinesh-aiblog.netlify.app/`,
     social: {
       twitter: `patnaikdinesh44`,
     },
@@ -61,7 +61,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Dinesh's AI Blog`,
-        short_name: `GatsbyJS`,
+        short_name: `AI Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
